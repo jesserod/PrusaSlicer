@@ -1,0 +1,5 @@
+PrusaSlicer.ini
+cache/*
+sla_material/*
+sla_print/*
+vendor/*
